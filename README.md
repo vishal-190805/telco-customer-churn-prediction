@@ -141,7 +141,7 @@
 ### Quick Start
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/telco-customer-churn-prediction.git
+git clone https://github.com/vishal-190805/telco-customer-churn-prediction.git
 cd telco-customer-churn-prediction
 
 # 2. Create virtual environment
@@ -234,6 +234,7 @@ This project is for portfolio demonstration purposes. Dataset sourced from IBM S
 ## 👤 Author
 
 **Vishal** — Data Science / ML Engineering Portfolio  
+GitHub: [@vishal-190805](https://github.com/vishal-190805)  
 *Demonstrating end-to-end ML pipeline competency: from raw data to business-ready insights.*
 
 ---
