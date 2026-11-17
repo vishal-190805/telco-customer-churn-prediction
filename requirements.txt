@@ -1,0 +1,27 @@
+# Core Data Science
+pandas==3.0.5
+numpy==2.5.2
+scikit-learn==1.5.2
+scipy==1.18.1
+
+# Visualization
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Machine Learning
+xgboost==3.4.1
+
+# Deep Learning
+tensorflow==2.21.0
+
+# Jupyter / Notebook Execution
+nbformat==5.11.1
+nbclient==0.11.0
+jupyter-core==5.9.1
+ipykernel==7.3.0
+jupyter-client==8.9.1
+ipython==9.16.1
+
+# Utilities
+joblib==1.5.0
+threadpoolctl==3.5.0
